@@ -8,4 +8,4 @@ jobs:
 
     steps:
 name: Hola desde GitHub Actions
-        run: echo "Hola desde GitHub Actions"
+  run: echo "Hola desde GitHub Actions"
